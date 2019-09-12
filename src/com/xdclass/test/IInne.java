@@ -4,6 +4,6 @@ public interface IInne {
 
     public void say();
 
-    public void say2();
+    public void say23();
 
 }
